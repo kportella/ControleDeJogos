@@ -1,0 +1,11 @@
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\bin\Debug\netcoreapp3.1\ControleDeJogos.exe
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\bin\Debug\netcoreapp3.1\ControleDeJogos.deps.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\bin\Debug\netcoreapp3.1\ControleDeJogos.runtimeconfig.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\bin\Debug\netcoreapp3.1\ControleDeJogos.runtimeconfig.dev.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\bin\Debug\netcoreapp3.1\ControleDeJogos.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\bin\Debug\netcoreapp3.1\ControleDeJogos.pdb
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\obj\Debug\netcoreapp3.1\ControleDeJogos.csprojAssemblyReference.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\obj\Debug\netcoreapp3.1\ControleDeJogos.AssemblyInfoInputs.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\obj\Debug\netcoreapp3.1\ControleDeJogos.AssemblyInfo.cs
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\obj\Debug\netcoreapp3.1\ControleDeJogos.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\ControleDeJogos\obj\Debug\netcoreapp3.1\ControleDeJogos.pdb
